@@ -1,0 +1,43 @@
+.signUp{
+    position: relative;
+    top: 3vh;
+    width: 30vw;
+    height: 60vh;
+    background-color: rgb(243, 243, 243);
+    box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+.register{
+    position: relative;
+    top: -50px;
+    left: 13%;
+    background-color: transparent;
+    border: 2px solid black;
+    color: black;
+    border-radius:  5px;
+    height:35px;
+    font-weight: bolder;
+
+}
+.register-form{
+    position: relative;
+    top: 30%
+}
+.buttonregis{
+    position: relative;
+    top: 20px;
+    left:40%;
+    background-color: orange;
+    border: 2px solid black;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bolder;
+    height: 40px;
+    border-radius: 5px;;
+}
+.textSign{
+    position: relative;
+    left: 37%;
+    top: 10%;
+    text-transform: uppercase;
+}
