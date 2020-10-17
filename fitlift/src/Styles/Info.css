@@ -1,0 +1,112 @@
+.chartColor{
+    background:  whitesmoke;
+    width: 60vw;
+    background-color: rgba(225, 225,225, 0.7);
+    border-radius: 20px;
+    position: relative;
+    left: 800px;
+    top: -300px;
+    width: 40%
+}
+.informations{
+    margin-top: 20px;
+    position: relative;
+    left:35%;
+}
+.bmi{
+    position: relative;
+    top:-20%
+}
+.mainBody{
+    position: relative;
+    top: 3vh;
+    width: 95vw;
+    height: 90vh;
+    background-color: rgb(243, 243, 243);
+    box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+.informations{
+    width: 60vw;
+    position: relative;
+    left: 5%;
+    height: 50vh;
+    top: 20vh;
+    
+}
+.inputweight{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: transparent;
+    border: 2px solid black;
+    font-weight: bolder;
+}
+.inputHeight{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: transparent;
+    border: 2px solid black;
+    font-weight: bolder;
+}
+.calculatebmi{
+    height: 30px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 5px;
+    border: 2px solid orange;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-left: 10px;
+    cursor: pointer; 
+}
+.bodymass{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.savingInfo{
+    height: 30px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 5px;
+    border: 2px solid orange;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-top: 10px; 
+    cursor: pointer; 
+}
+
+.getMeals{
+    height: 30px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 5px;
+    border: 2px solid orange;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-top: 10px; 
+    cursor: pointer; 
+}
+.progress{
+    height: 30px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 5px;
+    border: 2px solid orange;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-top: 10px; 
+    cursor: pointer; 
+}
+.informeals{
+    font-weight: 25px;
+    margin-left: 10px;
+    margin-top: 20px;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
